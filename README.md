@@ -37,14 +37,8 @@ NetworkSpeedTesting is a SwiftUI-based application that tests network access per
 
 ![Screenshot](https://github.com/sudhi001/ExpensiveNetworkAccessTest/blob/main/Screenshot.png)
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Author
 Created by **Sudhi S.** on 15/01/25.
-
-## Contributions
-Contributions are welcome! Feel free to submit a pull request or report issues.
 
 
 
