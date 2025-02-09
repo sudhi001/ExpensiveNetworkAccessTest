@@ -34,7 +34,8 @@ NetworkSpeedTesting is a SwiftUI-based application that tests network access per
 - Swift Concurrency (`async/await`) for asynchronous operations
 
 ## Screenshots
-![Screenshot](https://github.com/sudhi001/ExpensiveNetworkAccessTest/blob/main/screenshort.png)
+
+![Screenshot](https://github.com/sudhi001/ExpensiveNetworkAccessTest/blob/main/Screenshot.png)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
